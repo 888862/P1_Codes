@@ -7,7 +7,7 @@ Created on Sat Mar 23 17:18:10 2024
 
 #%% Set paths
 
-path_in = "C:/Users/DNLROB007/Documents/P1_Codes/CTDdata_20082911_Depth_Temp_Sal.dat"
+path_in = "C:/Users/DNLROB007/Documents/P1_Codes/P1_20240323_CTD20082911Depth_Temp_Sal_V1.dat"
 
 #%% Import modules
 
